@@ -2,7 +2,7 @@
 
 with this pack you get a fully updated  (2019) esx pack there are to many scripts to list.
 
-this can be very use full if your just starting out and need a little helping hand 
+this can be very useful if your just starting out and need a little helping hand 
 
 ***whats inside the .rar***
 
