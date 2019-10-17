@@ -13,6 +13,6 @@ this can be very useful if your just starting out and need a little helping hand
 
 You can use this to build from or simply use it as it is  :)  
 
-i will try to keep this pack updated as much as possable... if you are intrested please feel free to folk this and update it your self  :) 
+i will try to keep this pack updated as much as possable... if you are intrested please feel free to fork this and update it your self  :) 
 
 ***HOPE THIS HELPS***
